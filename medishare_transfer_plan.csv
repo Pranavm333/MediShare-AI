@@ -1,0 +1,51 @@
+facility_id,facility_name,medicine_id,medicine_name,destination_facility,surplus_quantity,shortage_quantity,recommended_transfer,transport_distance_km,transport_cost,destination_id
+FAC007,Hilltop Clinic,MED017,Chlorhexidine solution,FAC035 - Willowbrook Hospital,1491,228,228,11.29,226.66,FAC035
+FAC023,Brookside Medical Centre,MED018,Vitamin A capsules,FAC015 - Parkside Health Centre,568,554,554,11.45,377.81,FAC015
+FAC021,Silverline Hospital,MED011,Insulin human injection,FAC003 - Riverside Medical Centre,1329,70,70,17.74,419.93,FAC003
+FAC025,Kingsway Clinic,MED017,Chlorhexidine solution,FAC029 - Springfield Clinic,1214,603,603,17.73,449.2,FAC029
+FAC037,Crescent Clinic,MED001,Paracetamol 500 mg tablets,FAC025 - Kingsway Clinic,2325,25,25,21.93,561.37,FAC025
+FAC013,Hopewell Clinic,MED018,Vitamin A capsules,FAC005 - Sunrise Primary Health Centre,1619,41,41,21.41,588.13,FAC005
+FAC049,Bayside Clinic,MED017,Chlorhexidine solution,FAC050 - Southgate Medical Centre,1433,383,383,35.25,752.49,FAC050
+FAC019,Cedar Grove Hospital,MED011,Insulin human injection,FAC009 - Eastgate Health Centre,1539,300,300,32.28,813.73,FAC009
+FAC043,Lakeside Clinic,MED008,Azithromycin 250 mg tablets,FAC016 - Valley Community Hospital,2807,429,429,36.39,862.98,FAC016
+FAC028,Grandview Medical Centre,MED011,Insulin human injection,FAC026 - Maple Leaf Hospital,1930,55,55,41.69,916.29,FAC026
+FAC049,Bayside Clinic,MED016,Dextrose 5% IV fluid,FAC050 - Southgate Medical Centre,816,112,112,35.25,1122.95,FAC050
+FAC013,Hopewell Clinic,MED001,Paracetamol 500 mg tablets,FAC027 - Bluebell Health Centre,1203,18,18,31.95,1264.73,FAC027
+FAC024,Redwood Community Hospital,MED001,Paracetamol 500 mg tablets,FAC049 - Bayside Clinic,617,457,457,68.59,1324.78,FAC049
+FAC014,Meadowlands Hospital,MED006,Amlodipine 5 mg tablets,FAC039 - Summit Medical Centre,1457,80,80,68.09,1592.56,FAC039
+FAC015,Parkside Health Centre,MED003,Oral rehydration salts,FAC001 - City General Hospital,720,1,1,49.69,1825.65,FAC001
+FAC036,Newtown Health Centre,MED018,Vitamin A capsules,FAC019 - Cedar Grove Hospital,582,149,149,65.46,1851.6,FAC019
+FAC008,Central District Hospital,MED019,Zinc 20 mg tablets,FAC050 - Southgate Medical Centre,2461,240,240,56.75,1859.98,FAC050
+FAC013,Hopewell Clinic,MED012,Tetanus vaccine,FAC031 - Sunset Health Centre,1450,333,333,46.34,1869.81,FAC031
+FAC024,Redwood Community Hospital,MED019,Zinc 20 mg tablets,FAC010 - West End Community Clinic,1719,338,338,57.79,2003.15,FAC010
+FAC026,Maple Leaf Hospital,MED009,Ibuprofen 200 mg tablets,FAC016 - Valley Community Hospital,2711,5,5,71.12,2118.15,FAC016
+FAC035,Willowbrook Hospital,MED011,Insulin human injection,FAC017 - Oakwood Clinic,1379,99,99,68.36,2169.16,FAC017
+FAC011,St Mary's Hospital,MED012,Tetanus vaccine,FAC040 - Gardenview Clinic,1622,101,101,58.76,2173.29,FAC040
+FAC028,Grandview Medical Centre,MED011,Insulin human injection,FAC016 - Valley Community Hospital,1930,337,337,62.12,2239.85,FAC016
+FAC042,Brighton Health Centre,MED015,Ceftriaxone injection,FAC012 - Unity Medical Centre,708,93,93,80.74,2423.75,FAC012
+FAC045,Eastwood Medical Centre,MED004,Cetirizine 10 mg tablets,FAC017 - Oakwood Clinic,1264,102,102,92.45,2671.65,FAC017
+FAC033,Rosewood Clinic,MED011,Insulin human injection,FAC046 - Ashford Community Clinic,939,448,448,71.28,2912.26,FAC046
+FAC041,Elm Street Hospital,MED010,Iron and folic acid tablets,FAC014 - Meadowlands Hospital,1979,10,10,77.33,2960.4,FAC014
+FAC012,Unity Medical Centre,MED014,Salbutamol inhaler,FAC044 - Westfield Hospital,199,183,183,89.94,2971.91,FAC044
+FAC035,Willowbrook Hospital,MED014,Salbutamol inhaler,FAC023 - Brookside Medical Centre,1155,323,92,115.77,3091.68,FAC023
+FAC043,Lakeside Clinic,MED019,Zinc 20 mg tablets,FAC028 - Grandview Medical Centre,1651,349,349,83.02,3103.09,FAC028
+FAC045,Eastwood Medical Centre,MED001,Paracetamol 500 mg tablets,FAC044 - Westfield Hospital,2155,515,515,93.99,3212.53,FAC044
+FAC007,Hilltop Clinic,MED014,Salbutamol inhaler,FAC023 - Brookside Medical Centre,231,323,231,106.57,3251.01,FAC023
+FAC039,Summit Medical Centre,MED018,Vitamin A capsules,FAC009 - Eastgate Health Centre,1271,397,397,138.18,3371.98,FAC009
+FAC004,Greenfield Community Hospital,MED015,Ceftriaxone injection,FAC033 - Rosewood Clinic,1949,248,248,96.54,3545.23,FAC033
+FAC026,Maple Leaf Hospital,MED012,Tetanus vaccine,FAC033 - Rosewood Clinic,683,312,312,103.98,3684.69,FAC033
+FAC034,Beacon Medical Centre,MED009,Ibuprofen 200 mg tablets,FAC007 - Hilltop Clinic,2104,258,258,101.89,3771.83,FAC007
+FAC042,Brighton Health Centre,MED009,Ibuprofen 200 mg tablets,FAC005 - Sunrise Primary Health Centre,1520,159,159,105.98,4147.74,FAC005
+FAC042,Brighton Health Centre,MED017,Chlorhexidine solution,FAC032 - Fairview Hospital,1801,598,598,110.46,4165.47,FAC032
+FAC024,Redwood Community Hospital,MED003,Oral rehydration salts,FAC030 - Evergreen District Hospital,2154,302,302,110.09,4227.34,FAC030
+FAC010,West End Community Clinic,MED008,Azithromycin 250 mg tablets,FAC009 - Eastgate Health Centre,1289,155,155,124.03,4232.6,FAC009
+FAC025,Kingsway Clinic,MED006,Amlodipine 5 mg tablets,FAC046 - Ashford Community Clinic,1574,546,546,117.41,4341.3,FAC046
+FAC021,Silverline Hospital,MED016,Dextrose 5% IV fluid,FAC011 - St Mary's Hospital,773,60,60,112.49,4379.04,FAC011
+FAC004,Greenfield Community Hospital,MED016,Dextrose 5% IV fluid,FAC025 - Kingsway Clinic,1001,154,154,143.65,4771.17,FAC025
+FAC038,Orchard Community Hospital,MED003,Oral rehydration salts,FAC048 - Morningside Health Centre,1979,285,285,118.68,4777.28,FAC048
+FAC048,Morningside Health Centre,MED004,Cetirizine 10 mg tablets,FAC008 - Central District Hospital,2263,162,162,118.74,4786.18,FAC008
+FAC050,Southgate Medical Centre,MED010,Iron and folic acid tablets,FAC013 - Hopewell Clinic,1027,161,161,159.94,5451.49,FAC013
+FAC045,Eastwood Medical Centre,MED005,Metformin 500 mg tablets,FAC032 - Fairview Hospital,1948,717,717,192.42,5633.5,FAC032
+FAC048,Morningside Health Centre,MED020,Artesunate injection,FAC046 - Ashford Community Clinic,1388,167,167,170.45,5666.94,FAC046
+FAC016,Valley Community Hospital,MED007,Omeprazole 20 mg capsules,FAC004 - Greenfield Community Hospital,1343,166,166,184.49,5704.9,FAC004
+FAC031,Sunset Health Centre,MED013,Oxytocin injection,FAC016 - Valley Community Hospital,1304,681,681,210.78,6790.47,FAC016
